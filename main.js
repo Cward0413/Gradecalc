@@ -14,7 +14,7 @@ $(document).ready(
             //get user input
             var student = {};
             student.Name = $("#fName").val() + " " + $("#lName").val();
-            student.Percent = ((($("#points").val())/($("#posPoints").val())) * 100).toFixed(2);
+            student.Percent = parseFloat((($("#points").val()/$("#posPoints").val()) * 100).toFixed(2));
 
             //calc letter grade
             if (student.Percent >= 93)

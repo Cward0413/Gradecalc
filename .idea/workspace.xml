@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e7190e6-d447-441c-a7c8-062427eb628e" name="Default Changelist" comment="fixing header">
-      <change afterPath="$PROJECT_DIR$/.idea/Gradecalc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+    <list default="true" id="9e7190e6-d447-441c-a7c8-062427eb628e" name="Default Changelist" comment="Completing Lab">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +81,7 @@
       <workItem from="1606790058800" duration="9955000" />
       <workItem from="1606872282267" duration="1248000" />
       <workItem from="1606954878543" duration="16000" />
-      <workItem from="1606958545237" duration="5858000" />
+      <workItem from="1606958545237" duration="6819000" />
     </task>
     <task id="LOCAL-00001" summary="fixing header">
       <created>1606802100385</created>
@@ -94,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606802100386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completing Lab">
+      <created>1606964639599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606964639599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixing header" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing header" />
+    <MESSAGE value="Completing Lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completing Lab" />
   </component>
   <component name="WindowStateProjectService">
     <state x="903" y="454" key="Github.ShareDialog" timestamp="1606801917676">
@@ -124,9 +128,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="834" y="261" key="Github.UntrackedFilesDialog/0.0.2048.1112/1575.-1080.1920.1040/2560.0.1920.1040@0.0.2048.1112" timestamp="1606801925093" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1606802101618">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1606964641496">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/1575.-1080.1920.1040/2560.0.1920.1040@0.0.2048.1112" timestamp="1606802101618" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/1575.-1080.1920.1040/2560.0.1920.1040@0.0.2048.1112" timestamp="1606964641496" />
   </component>
 </project>
